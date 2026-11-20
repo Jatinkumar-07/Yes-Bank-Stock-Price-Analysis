@@ -27,7 +27,7 @@ The objective is to analyze stock price trends, volatility, market phases, corre
 
 ## Project Demonstration Video
 
-[Watch Project Demonstration Video](https://drive.google.com/file/d/1bYNllspYQNVNC_062Rpg3zmPjs-Qj8Xe/view?usp=sharing)
+[Watch Project Demonstration Video](https://drive.google.com/file/d/1Q-Nbg3uRsLhwUw7RO6HysMDQU58WCpss/view?usp=sharing)
 
 ## Author
 Jatin Kumar
