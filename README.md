@@ -25,9 +25,15 @@ The objective is to analyze stock price trends, volatility, market phases, corre
 - `data_YesBank_StockPrices.csv` – Dataset
 - `Yes_Bank_Stock_Price_Analysis_Presentation.pptx` – Project presentation
 
-## Project Demonstration Video
+## EDA Project Demonstration Video
 
 [Watch Project Demonstration Video](https://drive.google.com/file/d/1Q-Nbg3uRsLhwUw7RO6HysMDQU58WCpss/view?usp=sharing)
+
+## ML Project Demonstration Video
+
+[Watch Project Demonstration Video](https://drive.google.com/file/d/19jbDyNKrdnC4RAPwTpjGShjk-ET7Ntyl/view?usp=sharing)
+
+
 
 ## Author
 Jatin Kumar
